@@ -1,0 +1,5 @@
+HTML — page structure
+CSS — styling and layout
+JavaScript — frontend interactions
+PHP — backend, login, and order processing
+SQLite — database
